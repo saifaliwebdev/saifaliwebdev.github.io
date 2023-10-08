@@ -8,7 +8,7 @@ box-sizing: border-box;
   }
   @font-face {
     font-family: "mypixelfont";
-    src: url("font/VT323Regular.woff") format("woff");
+    src: url("saifaliwebdev.github.io/font/VT323Regular.woff") format("woff");
     }
 html , body{
     height: 100%;
@@ -229,7 +229,7 @@ a {
 .home-fiximg{
     width: 90%;
     height: 100%;
-    background-image: url("https://github.com/saifaliwebdev/saifaliwebdev.github.io/blob/main/images/6vIk.gif?raw=true");
+    background-image: url(saifaliwebdev.github.io/images/6vIk.gif?);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
