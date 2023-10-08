@@ -8,7 +8,7 @@ box-sizing: border-box;
   }
   @font-face {
     font-family: "mypixelfont";
-    src: url("https://github.com/saifaliwebdev/saifaliwebdev.github.io/tree/a28607241b961e7b20af8bea4c7b17fe065060b0/font/VT323Regular.woff") format("woff");
+    src: url("saifaliwebdev.github.io/font/VT323Regular.woff") format("woff");
     }
 html , body{
     height: 100%;
