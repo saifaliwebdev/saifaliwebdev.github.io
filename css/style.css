@@ -8,7 +8,7 @@ box-sizing: border-box;
   }
   @font-face {
     font-family: "mypixelfont";
-    src: url("saifaliwebdev.github.io/VT323Regular.ttf") format("ttf");
+    src: url(saifaliwebdev.github.io/VT323Regular.ttf) format("ttf");
     }
 html , body{
     height: 100%;
